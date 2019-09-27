@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahkoodaed.csp-generator.cloud/sitemap.xml
